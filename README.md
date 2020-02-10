@@ -11,7 +11,7 @@ Outline of protocols and grammars in use at JungleLaser (the Meta Protocol)
 
 ### Patterns
 
-1. Use this as little as possible, but no less.
+1. Use this tool as little as possible, but no less.
    1. Don't use any of these tools until there's a task or project that needs it!
 1. Use labels on issues to categorize
 1. Use pull requests on a branch to modify this Readme
